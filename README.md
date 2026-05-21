@@ -4,11 +4,33 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+The objective of this experiment is to build a Convolutional Neural Network (CNN) model that can classify grayscale fashion images into different clothing categories. The model is trained to identify clothing items such as T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot.
 
+### Dataset
+The **Fashion-MNIST** dataset is used for this experiment. It is a benchmark dataset consisting of grayscale images of fashion products.
+
+**Dataset Details:**
+- Training Images: 60,000
+- Testing Images: 10,000
+- Image Size: 28 × 28 pixels
+- Number of Classes: 10
+- Input Shape: `(1, 28, 28)`
+
+### Class Labels
+1. T-shirt/top  
+2. Trouser  
+3. Pullover  
+4. Dress  
+5. Coat  
+6. Sandal  
+7. Shirt  
+8. Sneaker  
+9. Bag  
+10. Ankle boot
+    
 ## Neural Network Model
 
-<img width="1777" height="840" alt="image" src="https://github.com/user-attachments/assets/5d631455-3394-4d56-9999-d0c70c5aa644" />
+<img width="1749" height="903" alt="Screenshot 2026-05-12 162328" src="https://github.com/user-attachments/assets/d1245bc3-f06e-4088-bcd7-00c69df2eece" />
 
 ## DESIGN STEPS
 ### STEP 1: 
