@@ -30,7 +30,7 @@ The **Fashion-MNIST** dataset is used for this experiment. It is a benchmark dat
     
 ## Neural Network Model
 
-<img width="1749" height="903" alt="Screenshot 2026-05-12 162328" src="https://github.com/user-attachments/assets/d1245bc3-f06e-4088-bcd7-00c69df2eece" />
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/040871e4-5171-4f91-bf22-97657c8c1d37" />
 
 ## DESIGN STEPS
 ### STEP 1: 
